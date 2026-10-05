@@ -175,7 +175,7 @@ Essential for Data Engineering, Data Analytics, and Backend Development:
 
 ---
 Cant find what you're looking for?
-Check out [developer roadmaps](https://roadmap.sh/) to find the right learning path for you
+## Check out [developer roadmaps](https://roadmap.sh/) to find the right learning path for you
 ---
 
 ## 🛠️ Hands-on Projects & Extracurricular Learning
