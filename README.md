@@ -173,6 +173,8 @@ Essential for Data Engineering, Data Analytics, and Backend Development:
 * 🐧 **Linux Command Line:** [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) — Gamified Linux terminal challenges for beginners.
 * 🚩 **Cybersecurity / CTF:** [Hack The Box](https://www.hackthebox.com/) — Hands-on penetration testing and security labs.
 
+### Cant find what you're looking for?
+Check out [developer roadmaps](https://roadmap.sh/) to find the right learning path for you
 ---
 
 ## 🛠️ Hands-on Projects & Extracurricular Learning
@@ -181,15 +183,15 @@ Want to stand out with unique personal projects? Don't just build another basic 
 Follow these free (unless otherwise stated) learning projects and ressources to help get your hands on the keyboard beyond school and course work!
 
 ### Guided Projects
-
+* 🏗️ **Compilation of Recreations** | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | *Step-by-step guides to build Docker, Git, a DB, an OS, or a 3D Renderer and so much more from scratch*
 ### Courses
 * 🌐 **Full-Stack Curriculum** | [The Odin Project](https://www.theodinproject.com/) | *Hands-on open source web development curriculum*
 * **Complete Online Computer Science Education** | [Open Source Socity University](https://github.com/ossu/computer-science) |*A curriculum nearly equivalent to a full bachelor's degree in computer science*
 * **Machine Learning for Beginners** | [Microsoft ML](https://github.com/microsoft/ml-for-beginners) | *Hands-on projects and quizes to ensure knowledge over a 12-week cycle*
-### Github Repositories
-* 🏗️ **Build Your Own X** | [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | *Step-by-step guides to build Docker, Git, a DB, an OS, or a 3D Renderer and so much more from scratch*
 ### Trusted Youtube Channels
+* [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 ### One Off Videos
+### Books
 ### Our Wonderful Discord Server
 * **[Laurier ML and AI Club](https://discord.gg/JraxPKQbDf)**
 ---
