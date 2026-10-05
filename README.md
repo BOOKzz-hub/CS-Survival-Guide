@@ -2,7 +2,7 @@
 
 > **Your ultimate playbook for navigating first and second year, landing your first co-op/internship, and leveling up your tech career early.**
 
-Welcome to the community-driven repository designed to help early-stage Computer Science and tech students get ahead! Whether you're looking for co-op advice, resume templates, or technical prep materials, this guide has you covered.
+Welcome to the community-driven repository designed to help early-stage Computer Science and tech students get ahead! Whether you're looking for co-op advice, resume templates, or technical prep materials, this guide has you covered. 
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to the community-driven repository designed to help early-stage Computer
   - [System Design](#system-design)
   - [SQL & Databases](#sql--databases)
   - [Cybersecurity, Linux & DevOps](#cybersecurity-linux--devops)
-- [🛠️ Hands-on Projects & Learning](#%EF%B8%8F-hands-on-projects--learning)
+- [🛠️ Hands-on Projects & Extracurricular Learning](#%EF%B8%8F-hands-on-projects--learning)
 - [📜 Recommended Industry Certifications](#-recommended-industry-certifications)
 
 ---
@@ -82,7 +82,7 @@ Follow this step-by-step roadmap during your first 2 years to maximize your succ
 └─────────────────────────────────────────────────────────┘
 ```
 
-## 🌐 Interactive Roadmaps & Skill Trees:
+## 🌐 Interactive Roadmaps & Skill Trees: 
 > * [roadmap.sh](https://roadmap.sh/) — Detailed role-based tech career roadmaps.
 > * [learn-anything.xyz](https://learn-anything.xyz/) — Interactive mindmaps for learning any computer science topic.
 
@@ -175,13 +175,23 @@ Essential for Data Engineering, Data Analytics, and Backend Development:
 
 ---
 
-## 🛠️ Hands-on Projects & Learning
+## 🛠️ Hands-on Projects & Extracurricular Learning
 
 Want to stand out with unique personal projects? Don't just build another basic To-Do app!
+Follow these free (unless otherwise stated) learning projects and ressources to help get your hands on the keyboard beyond school and course work!
 
-* 🌐 **Full-Stack Curriculum:** [The Odin Project](https://www.theodinproject.com/) *(Free, hands-on open source web development curriculum)*
-* 🏗️ **Build Your Own X:** [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) *(Step-by-step guides to build Docker, Git, a DB, an OS, or a 3D Renderer from scratch)*
+### Guided Projects
 
+### Courses
+* 🌐 **Full-Stack Curriculum:** [The Odin Project](https://www.theodinproject.com/) | *Hands-on open source web development curriculum*
+* **Complete Online Computer Science Education** [Open Source Socity University](https://github.com/ossu/computer-science) |*A curriculum nearly equivalent to a full bachelor's degree in computer science*
+* **Machine Learning for Beginners** [Microsoft ML](https://github.com/microsoft/ml-for-beginners) | *Hands-on projects and quizes to ensure knowledge over a 12-week cycle*
+### Github Repositories
+* 🏗️ **Build Your Own X:** [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | *Step-by-step guides to build Docker, Git, a DB, an OS, or a 3D Renderer and so much more from scratch*
+### Trusted Youtube Channels
+### One Off Videos
+### Our Wonderful Discord Server
+* **[Laurier ML and AI Club](https://discord.gg/JraxPKQbDf)**
 ---
 
 ## 📜 Recommended Industry Certifications
@@ -195,7 +205,7 @@ Enhance your knowledge and bolster your resume with recognized cloud and securit
    * [CompTIA Security+](https://www.comptia.org/en/certifications/security/) *(Highly recommended for Cybersecurity and Infrastructure roles!)*
 
 ---
-*Maintained with ❤️ by upper-year students. Pull requests and contributions are welcome!*
+*This repository is maintained with ❤️ by upper-year students. Pull requests and contributions are welcome!*
 
 Contributors List!:
-Ahmad Wali, Shayan Dhillon & Kaushal Subramani 
+Ahmad Wali, Shayan Dhillon & Kaushal Subramani, Zakariya Boukhezza
