@@ -215,4 +215,4 @@ Enhance your knowledge and bolster your resume with recognized cloud and securit
 *This repository is maintained with ❤️ by upper-year students. Pull requests and contributions are welcome!*
 
 Contributors List!:
-Ahmad Wali, Shayan Dhillon & Kaushal Subramani, Zakariya Boukhezza
+Ahmad Wali, Shayan Dhillon, Kaushal Subramani, Zakariya Boukhezza
