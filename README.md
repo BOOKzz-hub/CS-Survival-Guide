@@ -173,7 +173,8 @@ Essential for Data Engineering, Data Analytics, and Backend Development:
 * 🐧 **Linux Command Line:** [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) — Gamified Linux terminal challenges for beginners.
 * 🚩 **Cybersecurity / CTF:** [Hack The Box](https://www.hackthebox.com/) — Hands-on penetration testing and security labs.
 
-### Cant find what you're looking for?
+---
+Cant find what you're looking for?
 Check out [developer roadmaps](https://roadmap.sh/) to find the right learning path for you
 ---
 
