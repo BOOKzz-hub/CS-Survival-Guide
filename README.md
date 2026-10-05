@@ -183,11 +183,11 @@ Follow these free (unless otherwise stated) learning projects and ressources to 
 ### Guided Projects
 
 ### Courses
-* 🌐 **Full-Stack Curriculum:** [The Odin Project](https://www.theodinproject.com/) | *Hands-on open source web development curriculum*
-* **Complete Online Computer Science Education** [Open Source Socity University](https://github.com/ossu/computer-science) |*A curriculum nearly equivalent to a full bachelor's degree in computer science*
-* **Machine Learning for Beginners** [Microsoft ML](https://github.com/microsoft/ml-for-beginners) | *Hands-on projects and quizes to ensure knowledge over a 12-week cycle*
+* 🌐 **Full-Stack Curriculum** | [The Odin Project](https://www.theodinproject.com/) | *Hands-on open source web development curriculum*
+* **Complete Online Computer Science Education** | [Open Source Socity University](https://github.com/ossu/computer-science) |*A curriculum nearly equivalent to a full bachelor's degree in computer science*
+* **Machine Learning for Beginners** | [Microsoft ML](https://github.com/microsoft/ml-for-beginners) | *Hands-on projects and quizes to ensure knowledge over a 12-week cycle*
 ### Github Repositories
-* 🏗️ **Build Your Own X:** | [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | *Step-by-step guides to build Docker, Git, a DB, an OS, or a 3D Renderer and so much more from scratch*
+* 🏗️ **Build Your Own X** | [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | *Step-by-step guides to build Docker, Git, a DB, an OS, or a 3D Renderer and so much more from scratch*
 ### Trusted Youtube Channels
 ### One Off Videos
 ### Our Wonderful Discord Server
