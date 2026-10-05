@@ -196,7 +196,7 @@ Follow these free (unless otherwise stated) learning projects and ressources to 
 ### One Off Videos
 * [Therapy for the vibe coded brain](https://www.youtube.com/watch?v=DkhhE97Swmo)
 ### Books
-* **[Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/)
+* [Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/)
 ### Our Wonderful Discord Server
 * **[Laurier ML and AI Club](https://discord.gg/JraxPKQbDf)**
 ---
