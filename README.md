@@ -185,14 +185,18 @@ Follow these free (unless otherwise stated) learning projects and ressources to 
 
 ### Guided Projects
 * 🏗️ **Compilation of Recreations** | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | *Step-by-step guides to build Docker, Git, a DB, an OS, or a 3D Renderer and so much more from scratch*
+* **Cool Project Ideas for you to follow** | [Project Ideas & Ressources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)| *Create projects without any "design blocks"*
 ### Courses
 * 🌐 **Full-Stack Curriculum** | [The Odin Project](https://www.theodinproject.com/) | *Hands-on open source web development curriculum*
 * **Complete Online Computer Science Education** | [Open Source Socity University](https://github.com/ossu/computer-science) |*A curriculum nearly equivalent to a full bachelor's degree in computer science*
 * **Machine Learning for Beginners** | [Microsoft ML](https://github.com/microsoft/ml-for-beginners) | *Hands-on projects and quizes to ensure knowledge over a 12-week cycle*
+* **Multiple Curriculums for many in-demand skills** | [FreeCodeCamp](https://www.freecodecamp.org/)| *10 000+ books and courses teaching you how to code with quizes on the language you're using and projects built with an in-browser editor*
 ### Trusted Youtube Channels
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 ### One Off Videos
+* [Therapy for the vibe coded brain](https://www.youtube.com/watch?v=DkhhE97Swmo)
 ### Books
+* **[Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/)
 ### Our Wonderful Discord Server
 * **[Laurier ML and AI Club](https://discord.gg/JraxPKQbDf)**
 ---
